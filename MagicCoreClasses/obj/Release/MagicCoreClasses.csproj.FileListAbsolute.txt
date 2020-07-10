@@ -1,0 +1,6 @@
+C:\Users\thene\projects\MagicCoreClasses\MagicCoreClasses\bin\Release\MagicCoreClasses.dll
+C:\Users\thene\projects\MagicCoreClasses\MagicCoreClasses\bin\Release\MagicCoreClasses.pdb
+C:\Users\thene\projects\MagicCoreClasses\MagicCoreClasses\obj\Release\MagicCoreClasses.csprojAssemblyReference.cache
+C:\Users\thene\projects\MagicCoreClasses\MagicCoreClasses\obj\Release\MagicCoreClasses.csproj.CoreCompileInputs.cache
+C:\Users\thene\projects\MagicCoreClasses\MagicCoreClasses\obj\Release\MagicCoreClasses.dll
+C:\Users\thene\projects\MagicCoreClasses\MagicCoreClasses\obj\Release\MagicCoreClasses.pdb

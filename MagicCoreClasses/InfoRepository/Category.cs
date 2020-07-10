@@ -9,14 +9,12 @@ namespace MagicCoreClasses
     public class Category
     {
         //ID категории
-        public int id { get; set; }
+        public long id { get; set; }
         //ID родительской категории
-        public int parentId { get; set; }
+        public long parentId { get; set; }
         //Имя категории
         public string name { get; set; }
         //Описание категории
         public string description { get; set; }
-
-
     }
 }
