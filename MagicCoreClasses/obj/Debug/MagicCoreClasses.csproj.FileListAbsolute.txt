@@ -1,6 +1,0 @@
-C:\Users\thene\projects\MagicCoreClasses\MagicCoreClasses\bin\Debug\MagicCoreClasses.dll
-C:\Users\thene\projects\MagicCoreClasses\MagicCoreClasses\bin\Debug\MagicCoreClasses.pdb
-C:\Users\thene\projects\MagicCoreClasses\MagicCoreClasses\obj\Debug\MagicCoreClasses.csprojAssemblyReference.cache
-C:\Users\thene\projects\MagicCoreClasses\MagicCoreClasses\obj\Debug\MagicCoreClasses.csproj.CoreCompileInputs.cache
-C:\Users\thene\projects\MagicCoreClasses\MagicCoreClasses\obj\Debug\MagicCoreClasses.dll
-C:\Users\thene\projects\MagicCoreClasses\MagicCoreClasses\obj\Debug\MagicCoreClasses.pdb
