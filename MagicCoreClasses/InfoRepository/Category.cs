@@ -16,5 +16,14 @@ namespace MagicCoreClasses
         public string name { get; set; }
         //Описание категории
         public string description { get; set; }
+
+
+        public Category(long _id, long _parentId, string _name, string _description)
+        {
+            id = _id;
+            parentId = _parentId;
+            name = _name;
+            description = _description;
+        }
     }
 }
