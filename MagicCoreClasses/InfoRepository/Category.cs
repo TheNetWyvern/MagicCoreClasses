@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MagicCoreClasses
+namespace MagicCoreClasses.InfoRepository
 {
     public class Category
     {
