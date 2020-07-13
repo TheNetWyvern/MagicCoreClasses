@@ -1,29 +1,23 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace MagicCoreClasses.InfoRepository
+﻿namespace MagicCoreClasses.InfoRepository
 {
     public class Category
     {
         //ID категории
-        public long id { get; set; }
+        public long Id { get; set; }
         //ID родительской категории
-        public long parentId { get; set; }
+        public long ParentId { get; set; }
         //Имя категории
-        public string name { get; set; }
+        public string Name { get; set; }
         //Описание категории
-        public string description { get; set; }
+        public string Description { get; set; }
 
 
         public Category(long _id, long _parentId, string _name, string _description)
         {
-            id = _id;
-            parentId = _parentId;
-            name = _name;
-            description = _description;
+            Id = _id;
+            ParentId = _parentId;
+            Name = _name;
+            Description = _description;
         }
     }
 }
